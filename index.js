@@ -16,3 +16,5 @@ describe('Name', () => {
       expect(index.message).toInclude(index.height)
     })
   })
+
+index.message
