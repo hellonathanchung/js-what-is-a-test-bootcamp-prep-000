@@ -24,5 +24,5 @@ describe('Name', () => {
     })
   })
   
-  index.message
+  message
   
