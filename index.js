@@ -23,5 +23,3 @@ describe('Name', () => {
       expect(index.message).toInclude(index.height)
     })
   })
-  
-  message
